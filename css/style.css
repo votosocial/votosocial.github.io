@@ -4,17 +4,17 @@
 @import url("./plugin/mediaelementplayer.css");
 @import url("./plugin/colorbox.css");
 @import url("./plugin/jquery.fs.tipper.css");
-@import url(http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900);
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,100,200,300,500,600,700,800,900);
 
-/* 
+/*
 * BASIC STYLE
-  - General Style    
-  - Headings Style    
-  - Button Style    
-  - Form Style    
+  - General Style
+  - Headings Style
+  - Button Style
+  - Form Style
   - Spacer Style
-      
-* HEADER 
+
+* HEADER
   - Header Style
   - Navigation Menu
   - Right Side Menu Button (Search, Cart, Bar, etc)
@@ -32,7 +32,7 @@
   - Client Logo
   - Icon
   - Table
-  
+
 * GLOBAL STYLES
   - Push Menu Style (Top, Bottom, Left, right)
   - Contents (Body, Container, Section, etc)
@@ -71,7 +71,7 @@ body {
     line-height: 24px;
     color: #323232;
     font-size: 13px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
 }
@@ -263,7 +263,7 @@ p {
 h1, h2, h3, h4, h5, h6 {
     color: #323232;
     text-transform: uppercase;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     margin-top: 0px;
     margin-bottom: 10px;
@@ -342,7 +342,7 @@ h1.large {
     font-size: 12px;
     line-height: normal;
     font-weight:700;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     letter-spacing: 2px;
     text-transform: uppercase;
     transition: all 0.3s ease 0s;
@@ -534,7 +534,7 @@ button, html input[type="button"], input[type="reset"], input[type="submit"] {
 }
 
 button, input, textarea, select {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 12px;
 }
 
@@ -564,7 +564,7 @@ button, input, textarea, select {
 
 input, textarea, select {
     margin-bottom: 20px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 12px;
 }
 
@@ -583,7 +583,7 @@ label {
     padding-right: 3px;
     margin-top: 6px;
     font-weight: 600;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .form-full {
@@ -1290,7 +1290,7 @@ header.sticky .navigation a.current-ele {
     font-weight: 700;
     text-align: center;
     line-height: 14px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .cart-dropdown {
@@ -2062,7 +2062,7 @@ header.sticky .navigation a.current-ele {
 
     .side-menu .social {
         list-style:none;
-       
+
     }
         .side-menu .social li {
             display:inline-block;
@@ -2832,7 +2832,7 @@ height:100%;
             letter-spacing: 2px;
             font-size: 12px;
             font-weight: 600;
-            font-family: 'Raleway', sans-serif;
+            font-family: 'Montserrat', sans-serif;
         }
 
             .container-filter li a.active {
