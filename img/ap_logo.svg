@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Passed misc2svg (http://www.network-science.de/tools/misc2svg/) -->
+<svg
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns="http://www.w3.org/2000/svg"
+    version="1.1"
+    width="664.604"
+    height="768"
+    id="svg5941">
+  <defs id="defs5943" />
+  <path
+      d="m 664.60398,689.01019 -664.59481507,0 0,-689.01019 664.59481507,0 0,689.01019 z"
+      id="path4862"
+      style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;"
+  />
+  <path
+      d="m 0,689.00748 664.60398,0 0,78.99252 -664.59481507,0 -0.00733194,-78.99252 z"
+      id="path4866"
+      style="fill:#ef3b35;fill-opacity:1;fill-rule:nonzero;stroke:none;"
+  />
+  <path
+      d="m 448.59849,248.91654 32.36136,0 c 37.54871,0 58.93049,17.90827 58.93049,50.26047 0,31.78397 -21.38178,50.26963 -58.93049,50.26963 l -5.19651,0 0,67.60052 8.66085,0 c 86.65441,0 137.5106,-45.07312 137.5106,-117.87015 0,-75.68399 -50.85619,-117.86099 -137.5106,-117.86099 l -116.13798,0 0,335.09729 80.31228,0 0,-267.49677 z m -295.80725,-67.02313 -111.509688,334.5199 80.880498,0 104.581,-326.42727 -54.31137,9.81564 101.68489,316.61163 83.19922,0 -111.50968,-334.5199 -93.01487,0 z m 14.44393,283.68204 136.92404,0 -21.38178,-67.60051 -95.90182,0 -19.64044,67.60051 z"
+      id="path4878"
+      style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;"
+  />
+</svg>
