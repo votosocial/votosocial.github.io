@@ -44,7 +44,7 @@
 */
 
 .red-bg {
-  background: #48BFB7
+  background: #48BFB7;
 }
 /*-------------------------------------------------------------------------------------------*/
 /* BASIC STYLE    ||---------------------------- */
@@ -2220,7 +2220,7 @@ header.sticky .navigation a.current-ele {
     }
 
     .overlay-light:before {
-        background-color: rgba(255,255,255,0.4);
+        background-color: rgba(255,255,255,0.35);
     }
 
     .overlay-light80:before {
