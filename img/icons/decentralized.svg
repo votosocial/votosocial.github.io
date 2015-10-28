@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>Independiente</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="votosocial" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Independiente" sketch:type="MSArtboardGroup">
+            <circle id="Oval-1" stroke="#4C6085" stroke-width="4" sketch:type="MSShapeGroup" cx="90" cy="90" r="86"></circle>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(48.500000, 47.000000)" stroke="#4C6085" stroke-width="4.61111111">
+                <ellipse id="Oval-12" sketch:type="MSShapeGroup" cx="74.3541667" cy="38.4133333" rx="8.64583333" ry="8.6"></ellipse>
+                <ellipse id="Oval-12-Copy-3" sketch:type="MSShapeGroup" cx="43.2291667" cy="8.6" rx="8.64583333" ry="8.6"></ellipse>
+                <ellipse id="Oval-12-Copy-2" sketch:type="MSShapeGroup" cx="8.64583333" cy="33.8266667" rx="8.64583333" ry="8.6"></ellipse>
+                <ellipse id="Oval-12-Copy" sketch:type="MSShapeGroup" cx="25.9375" cy="68.2266667" rx="8.64583333" ry="8.6"></ellipse>
+                <ellipse id="Oval-12-Copy-4" sketch:type="MSShapeGroup" cx="60.5208333" cy="77.4" rx="8.64583333" ry="8.6"></ellipse>
+                <path d="M10.375,25.2266667 L34.5833333,9.17333333" id="Path-12" sketch:type="MSShapeGroup"></path>
+                <path d="M50.7222222,11.4666667 L69.1666667,30.96" id="Path-13" sketch:type="MSShapeGroup"></path>
+                <path d="M59.9444444,67.6533333 L71.4722222,45.8666667" id="Path-14" sketch:type="MSShapeGroup"></path>
+                <path d="M9.22222222,42.4266667 L21.9027778,60.7733333" id="Path-16" sketch:type="MSShapeGroup"></path>
+                <path d="M32.2777778,71.0933333 L51.875,76.8266667" id="Path-16" sketch:type="MSShapeGroup"></path>
+                <path d="M42.6527778,17.2 L28.8194444,59.6266667" id="Path-17" sketch:type="MSShapeGroup"></path>
+                <path d="M33.4305556,65.36 L66.8611111,42.4266667" id="Path-18" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(7.000000, -77.000000)" fill="#4C6085">
+                <circle id="Oval-7-Copy-4" sketch:type="MSShapeGroup" cx="75" cy="69" r="9"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

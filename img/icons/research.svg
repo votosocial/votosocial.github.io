@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>Research@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="votosocial" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Research" sketch:type="MSArtboardGroup">
+            <circle id="Oval-1" stroke="#4C6085" stroke-width="4" sketch:type="MSShapeGroup" cx="90" cy="90" r="86"></circle>
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(52.000000, 46.000000)">
+                <rect id="Rectangle-25-Copy" stroke="#4C6085" stroke-width="4" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="7" width="60" height="80" rx="5"></rect>
+                <rect id="aa" stroke="#FFFFFF" fill="#4C6085" sketch:type="MSShapeGroup" x="16" y="0" width="60" height="80" rx="5"></rect>
+                <rect id="aa-copy" fill="#FFFFFF" sketch:type="MSShapeGroup" x="20" y="5" width="52" height="70" rx="2"></rect>
+                <g id="Rectangle-27-+-Rectangle-27-Copy-+-Rectangle-27-Copy-2" transform="translate(26.000000, 23.000000)" fill="#4C6085" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-27" x="0" y="0" width="29" height="5" rx="3"></rect>
+                    <rect id="Rectangle-27-Copy" x="0" y="15" width="40" height="5" rx="3"></rect>
+                    <rect id="Rectangle-27-Copy-2" x="0" y="30" width="36" height="5" rx="3"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
