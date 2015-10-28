@@ -275,6 +275,7 @@ h1 {
     font-size: 43px;
     letter-spacing: 2px;
     line-height: 40px;
+    text-shadow: -4px 5px 0px #48BFB7;
 }
 
     h1.h1, h2.h2 {
