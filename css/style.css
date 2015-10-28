@@ -43,18 +43,20 @@
   - Additional
 */
 
-
+.red-bg {
+  background: #48BFB7
+}
 /*-------------------------------------------------------------------------------------------*/
 /* BASIC STYLE    ||---------------------------- */
 /*-------------------------------------------------------------------------------------------*/
 
 ::-moz-selection {
-    background-color: #e6ae49;
+    background-color: #FFE66D;
     color: #FFF;
 }
 
 ::selection {
-    background-color: #e6ae49;
+    background-color: #FFE66D;
     color: #FFF;
 }
 
@@ -69,7 +71,7 @@ body, html {
 
 body {
     line-height: 24px;
-    color: #323232;
+    color: #4C6085;
     font-size: 13px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
@@ -94,7 +96,7 @@ a, a:focus, a:active, a:link, img {
 a {
     cursor: pointer;
     text-decoration: none;
-    color: #323232;
+    color: #4C6085;
     transition: all 0.25s ease 0s;
     -moz-transition: all 0.25s ease 0s;
     -webkit-transition: all 0.25s ease 0s;
@@ -102,7 +104,7 @@ a {
 }
 
     a:hover {
-        color: #e6ae49;
+        color: #FFE66D;
         text-decoration: none;
         transition: all 0.25s ease 0s;
         -moz-transition: all 0.25s ease 0s;
@@ -187,7 +189,7 @@ p {
     }
 
     p.dark, .dark, a.dark, h1.dark, h2.dark, h3.dark, h4.dark, h5.dark, h6.dark {
-        color: #323232 !important;
+        color: #4C6085 !important;
     }
 
     p.white, .white, a.white, h1.white, h2.white, h3.white, h4.white, h5.white, h6.white {
@@ -195,7 +197,7 @@ p {
     }
 
     p.color, .color, a.color, h1.color, h2.color, h3.color, h4.color, h5.color, h6.color, li.link:hover, li.link a:hover, .color {
-        color: #e6ae49 !important;
+        color: #FFE66D !important;
     }
 
 .gray {
@@ -207,11 +209,11 @@ p {
 }
 
 .dark-color h1, .dark-color h2, .dark-color h3, .dark-color h4, .dark-color h5, .dark-color h6, .dark-color p, .dark-color, .dark-color .container-icon {
-    color: #323232;
+    color: #4C6085;
 }
 
 .dark-bg {
-    background: #323232;
+    background: #4C6085;
     color: #fff;
 }
 
@@ -219,16 +221,16 @@ p {
         color: #fff;
     }
     .dark-bg .link:hover, .link:hover {
-        color:#e6ae49;
+        color:#FFE66D;
     }
 
 .gray-bg {
     background: #f7f7f7;
-    color: #323232;
+    color: #4C6085;
 }
 
     .gray-bg h1, .gray-bg h2, .gray-bg h3, .gray-bg h4, .gray-bg h5, .gray-bg h6, .gray-bg .container-icon {
-        color: #323232;
+        color: #4C6085;
     }
 
 
@@ -253,7 +255,7 @@ p {
     }
 
     .separator.color {
-        background: #e6ae49;
+        background: #FFE66D;
     }
 
     .separator.white {
@@ -261,7 +263,7 @@ p {
     }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #323232;
+    color: #4C6085;
     text-transform: uppercase;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
@@ -401,19 +403,19 @@ button {
 
 .btn-black {
     color: #fff;
-    background: #323232;
+    background: #4C6085;
     border: none;
 }
 
     .btn-black:hover {
         color: #fff;
-        /*background: #e6ae49;*/
+        /*background: #FFE66D;*/
         background: rgba(50,50,50,0.85);
     }
 
 .btn-color-a, .btn-color-b {
     color: #fff;
-    background: #e6ae49;
+    background: #FFE66D;
     border: none;
 }
 
@@ -424,22 +426,22 @@ button {
 
     .btn-color-b:hover {
         color: #fff;
-        /*color: #e6ae49;
+        /*color: #FFE66D;
         background: #fff;*/
         background: rgba(230,174,73,0.85);
     }
 
 .btn-white {
-    color: #323232;
+    color: #4C6085;
     background: rgba(255,255,255,1);
     border: none;
 }
 
     .btn-white:hover {
         /*color: #fff;
-        background: #e6ae49;*/
+        background: #FFE66D;*/
         background: rgba(255,255,255,0.85);
-        color: #323232;
+        color: #4C6085;
     }
 
 .btn-black-line, .btn-white-line, .btn-color-line {
@@ -448,25 +450,25 @@ button {
 }
 
 .btn-black-line {
-    color: #323232;
-    border-color: #323232;
+    color: #4C6085;
+    border-color: #4C6085;
     padding: 9px 20px;
 }
 
     .btn-black-line:hover {
         color: #fff;
-        background: #323232;
+        background: #4C6085;
     }
 
 .btn-color-line {
-    color: #e6ae49;
-    border-color: #e6ae49;
+    color: #FFE66D;
+    border-color: #FFE66D;
     padding: 9px 20px;
 }
 
     .btn-color-line:hover {
         color: #fff;
-        background: #e6ae49;
+        background: #FFE66D;
     }
 
 
@@ -478,12 +480,12 @@ button {
 }
 
     .btn-white-line:hover {
-        color: #323232;
+        color: #4C6085;
         background: #fff;
     }
 
 .btn-link-a, .btn-link-b {
-    color: #323232;
+    color: #4C6085;
     background: none;
     padding-left: 0px;
     padding-right: 0px;
@@ -496,8 +498,8 @@ button {
 }
 
     .btn-link-a:hover {
-        color: #e6ae49;
-        border-bottom: 1px solid #e6ae49;
+        color: #FFE66D;
+        border-bottom: 1px solid #FFE66D;
     }
 
     .btn-link-b:hover {
@@ -554,8 +556,8 @@ button, input, textarea, select {
     }
 
         input[type="text"]:focus, input[type="email"]:focus, input[type="tel"]:focus, input[type="number"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focus, input[type="password"]:focus, textarea:focus {
-            border-color: #e6ae49;
-            color: #323232;
+            border-color: #FFE66D;
+            color: #4C6085;
         }
 
 input, textarea, select {
@@ -573,7 +575,7 @@ textarea {
 }
 
 label {
-    color: #323232;
+    color: #4C6085;
     font-size: 13px;
     margin-bottom: 10px;
     padding-right: 3px;
@@ -1092,7 +1094,7 @@ form label.error {
 .header {
     background-color: #fff;
     /*border-bottom: 1px solid #eee;*/
-    color: #323232;
+    color: #4C6085;
     /*padding:25px 0px;*/
     padding: 0px;
     position: relative;
@@ -1112,7 +1114,7 @@ form label.error {
         -moz-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
         -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
         -o-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
-        color: #323232;
+        color: #4C6085;
         position: fixed;
         z-index: 2030;
         transition: all 0.25s ease 0s;
@@ -1133,7 +1135,7 @@ form label.error {
         -moz-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
         -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
         -o-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
-        color: #323232;
+        color: #4C6085;
         position: fixed;
         /*border-bottom: 1px solid #eee;*/
     }
@@ -1147,12 +1149,12 @@ form label.error {
 .mobile-menu-icon, .header.sticky .mobile-menu-icon,
 .header .side-menu-btn ul li a.right-icon,
 .header.sticky .side-menu-btn ul li a.right-icon, .header .mobile-menu-icon, .header.sticky .mobile-menu-icon {
-    color: #323232;
+    color: #4C6085;
 }
     /*#menu-button.menu-opened .bar-icon,*/
     .header .side-menu-btn ul li a.right-icon:hover, .header.sticky .side-menu-btn ul li a.right-icon:hover, .header .mobile-menu-icon:hover,
     .background--dark .header .navigation a:hover {
-        color: #e6ae49;
+        color: #FFE66D;
     }
 
 .header li {
@@ -1232,10 +1234,10 @@ form label.error {
     line-height:34px;
 }
     .side-menu-btn-fix a:hover {
-        background:#e6ae49;
+        background:#FFE66D;
     }
 header.sticky .navigation a.current-ele {
-    color:#e6ae49 !important;
+    color:#FFE66D !important;
 }
 
 /* Right Side Menu Button Style*/
@@ -1279,7 +1281,7 @@ header.sticky .navigation a.current-ele {
     right: -5px;
     bottom: -3px;
     display: block;
-    background: #e6ae49;
+    background: #FFE66D;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%;
@@ -1336,7 +1338,7 @@ header.sticky .navigation a.current-ele {
             }
 
                 .cart-dropdown .cart-list li > .close-cart-list:hover {
-                    color: #e6ae49;
+                    color: #FFE66D;
                     background-image: none !important;
                 }
 
@@ -1366,7 +1368,7 @@ header.sticky .navigation a.current-ele {
             }
 
                 .cart-dropdown .cart-list .media a:hover {
-                    color: #e6ae49;
+                    color: #FFE66D;
                 }
 
 .cart-dropdown {
@@ -1388,7 +1390,7 @@ header.sticky .navigation a.current-ele {
         }
 
             .cart-dropdown .cart-checkout-btn a.checkout:hover {
-                /*color: #e6ae49;*/
+                /*color: #FFE66D;*/
                 color: #fff;
             }
 
@@ -1406,7 +1408,7 @@ header.sticky .navigation a.current-ele {
     }
 
     .background--dark .header .side-menu-btn ul li a.right-icon, .background--dark .header .mobile-menu-icon {
-        color: #323232;
+        color: #4C6085;
     }
 
     .header .logo a img.l-black, /*.header.sticky .logo a img.l-color,*/ .background--dark .header .logo a img.l-black {
@@ -1420,7 +1422,7 @@ header.sticky .navigation a.current-ele {
 
     .header {
         background: #fff;
-        color: #323232;
+        color: #4C6085;
     }
 
     .full-intro .header {
@@ -1463,7 +1465,7 @@ header.sticky .navigation a.current-ele {
 
 .footer {
     background-color: #f7f7f7;
-    color: #323232;
+    color: #4C6085;
     position: relative;
     width: 100%;
     display: block;
@@ -1474,7 +1476,7 @@ header.sticky .navigation a.current-ele {
     }
 
     .footer .footer-info p {
-        color: #323232;
+        color: #4C6085;
     }
 
 .footer-logo {
@@ -1601,7 +1603,7 @@ header.sticky .navigation a.current-ele {
             }
 
                 .team-item-img .team-item-detail .team-item-detail-inner .social li a:hover {
-                    color: #e6ae49;
+                    color: #FFE66D;
                 }
 
 .team-item-info {
@@ -1635,7 +1637,7 @@ header.sticky .navigation a.current-ele {
 .skillbar-bar {
     height: 3px;
     width: 0px;
-    background: #323232;
+    background: #4C6085;
     -webkit-transition-property: width, background-color;
     -moz-transition-property: width, background-color;
     -ms-transition-property: width, background-color;
@@ -1648,7 +1650,7 @@ header.sticky .navigation a.current-ele {
 }
 
 .skillbar-title, .skill-bar-percent {
-    color: #323232;
+    color: #4C6085;
     font-size: 11px;
     font-weight: 600;
     text-transform: uppercase;
@@ -1684,7 +1686,7 @@ header.sticky .navigation a.current-ele {
 
     .accordion-title.active {
         /*background: #fafafa;*/
-        color: #e6ae49;
+        color: #FFE66D;
     }
 
     .accordion-title:before {
@@ -1911,7 +1913,7 @@ header.sticky .navigation a.current-ele {
     line-height: 50px;
     padding-bottom: 20px;
     width: 100%;
-    color: #323232;
+    color: #4C6085;
 }
 
 .white .page-icon-top, .white .page-icon-left, .white .features-icon-left, .white .features-icon-right {
@@ -1969,7 +1971,7 @@ header.sticky .navigation a.current-ele {
 /*-------------------------------------------------------------------------------------------*/
 /* Sidebar Menu */
 .side-menu {
-    background: #323232;
+    background: #4C6085;
     z-index: 2005;
     color: #fff;
     padding: 30px;
@@ -1992,7 +1994,7 @@ header.sticky .navigation a.current-ele {
 
         .side-menu .menu-close:hover {
             /*background: url("../img/close-color.png");*/
-            color: #e6ae49;
+            color: #FFE66D;
         }
 
     .side-menu a {
@@ -2002,7 +2004,7 @@ header.sticky .navigation a.current-ele {
     }
 
         .side-menu a:hover {
-            color: #e6ae49;
+            color: #FFE66D;
         }
 
     .side-menu ul {
@@ -2028,7 +2030,7 @@ header.sticky .navigation a.current-ele {
     }
 
         .side-menu input[type="text"]:focus, .side-menu input[type="email"]:focus, .side-menu input[type="tel"]:focus, .side-menu input[type="number"]:focus, .side-menu input[type="radio"]:focus, .side-menu input[type="checkbox"]:focus, .side-menu input[type="password"]:focus, .side-menu textarea:focus, .side-menu select:focus {
-            /*border-color: #e6ae49;
+            /*border-color: #FFE66D;
             color: #fff;*/
         }
 
@@ -2048,7 +2050,7 @@ header.sticky .navigation a.current-ele {
         }
 
             .side-menu .sign-in a:hover {
-                color: #e6ae49;
+                color: #FFE66D;
                 text-decoration: underline;
             }
     .side-menu .logo {
@@ -2160,7 +2162,7 @@ header.sticky .navigation a.current-ele {
     background: rgba(255,255,255,0.9);
     padding: 4px 8px;
     display: inline-block;
-    color: #323232;
+    color: #4C6085;
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -2682,7 +2684,7 @@ height:100%;
     }
 
         .widget-search input[type="submit"]:hover {
-            color: #e6ae49;
+            color: #FFE66D;
         }
 
 .sidebar-widget hr {
@@ -2703,11 +2705,11 @@ height:100%;
             display: inline-block;
             padding: 4px 0px;
             font-size: 13px;
-            color: #323232;
+            color: #4C6085;
         }
 
             .sidebar-widget ul li a:hover {
-                color: #e6ae49;
+                color: #FFE66D;
             }
 
 .widget-tag {
@@ -2729,7 +2731,7 @@ height:100%;
         }
 
             .widget-tag li a:hover {
-                background: #323232;
+                background: #4C6085;
                 color: #fff !important;
             }
 
@@ -2799,7 +2801,7 @@ height:100%;
             }
 
             .pagination-nav ul li.active a {
-                background: #323232;
+                background: #4C6085;
                 color: #fff;
             }
 
@@ -2832,7 +2834,7 @@ height:100%;
         }
 
             .container-filter li a.active {
-                color: #e6ae49;
+                color: #FFE66D;
             }
 
 .item-box {
@@ -2953,7 +2955,7 @@ ul.project-detail-block, .project-detail-block ul {
         }
 
             .item-nav .item-all-view h5:hover, .item-nav .item-all-view h6:hover {
-                color: #e6ae49;
+                color: #FFE66D;
             }
 
         .item-nav .item-prev .prev-btn, .item-nav .item-next .next-btn, .item-all-view {
@@ -2969,7 +2971,7 @@ ul.project-detail-block, .project-detail-block ul {
         }
 
         .item-nav .item-prev .prev-btn, .item-nav .item-next .next-btn {
-            color: #323232;
+            color: #4C6085;
             background: #fff;
             width: 51px;
         }
@@ -3275,7 +3277,7 @@ ul.project-detail-block, .project-detail-block ul {
 }
 
     .shop-item-info a:hover, .shop-item-info a:hover h5, .shop-item-info a:hover h6, .shop-item-name:hover {
-        color: #e6ae49;
+        color: #FFE66D;
         transition: all 0.25s ease 0s;
         -moz-transition: all 0.25s ease 0s;
         -webkit-transition: all 0.25s ease 0s;
@@ -3312,7 +3314,7 @@ ul.project-detail-block, .project-detail-block ul {
 
 .shop-detail-info .shop-item-price {
     font-size: 20px;
-    color: #e6ae49;
+    color: #FFE66D;
     font-weight: 600;
 }
 
@@ -3418,7 +3420,7 @@ ul.project-detail-block, .project-detail-block ul {
     height: 51px;
     text-align: center;
     font-family: 'FontAwesome';
-    color: #323232;
+    color: #4C6085;
     transition: all 0.25s ease 0s;
     -moz-transition: all 0.25s ease 0s;
     -webkit-transition: all 0.25s ease 0s;
@@ -3428,7 +3430,7 @@ ul.project-detail-block, .project-detail-block ul {
 }
 
     .fullscreen-carousel .flex-direction-nav a:hover {
-        color: #e6ae49;
+        color: #FFE66D;
     }
 
 .flexslider.fullscreen-carousel:hover .flex-prev {
@@ -3588,7 +3590,7 @@ ul.project-detail-block, .project-detail-block ul {
         .nf-carousel-theme .owl-controls .owl-buttons .owl-prev:hover,
         .nf-carousel-theme .owl-controls .owl-buttons .owl-next:hover {
             /*background: #fff;*/
-            color: #e6ae49;
+            color: #FFE66D;
         }
 
     .content-carousel .owl-controls .owl-buttons .owl-next,
@@ -3749,11 +3751,11 @@ ul.project-detail-block, .project-detail-block ul {
         }
 
 .background--light .intro-scroll-down .mouse {
-    border: 2px solid #323232;
+    border: 2px solid #4C6085;
 }
 
     .background--light .intro-scroll-down .mouse .mouse-dot {
-        background: #323232;
+        background: #4C6085;
     }
 
 @-webkit-keyframes ani-mouse {
@@ -3834,7 +3836,7 @@ ul.project-detail-block, .project-detail-block ul {
     right: 20px;
     text-align: center;
     font-size: 20px;
-    background: #323232;
+    background: #4C6085;
     background: #555;
     color: #fff;
     z-index: 99;
@@ -3846,7 +3848,7 @@ ul.project-detail-block, .project-detail-block ul {
 }
 
     .scroll-top:hover {
-        background: #e6ae49;
+        background: #FFE66D;
         text-decoration: none;
         color: #fff;
     }
