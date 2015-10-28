@@ -1187,12 +1187,12 @@ form label.error {
         position: relative;
         display: block;
         width: 132px;
-        margin-top: 34px;
+        margin-top: 5px;
     }
 
 .header.sticky .logo a {
     width: 115px;
-    margin-top: 23px;
+    margin-top: 5px;
 }
 
 .logo a img {
