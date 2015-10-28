@@ -225,7 +225,7 @@ p {
 }
 
 .dark-bg {
-    background: #4C6085;
+    background: #EA526F;
     color: #fff;
 }
 
@@ -1143,7 +1143,7 @@ form label.error {
 }
 
     .full-intro .header.sticky {
-        background-color: #48BFB7;
+        background-color: #BBC7CE;
         box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
         -moz-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
         -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
@@ -1199,13 +1199,13 @@ form label.error {
     .header .logo a {
         position: relative;
         display: block;
-        width: 132px;
+        width: 80px;
         margin-top: 5px;
     }
 
 .header.sticky .logo a {
-    width: 115px;
-    margin-top: 23px;
+    width: 40px;
+    margin-top: 7px;
 }
 
 .logo a img {
