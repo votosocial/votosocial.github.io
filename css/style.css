@@ -225,7 +225,7 @@ p {
 }
 
 .dark-bg {
-    background: #EA526F;
+    background: #4C6085;
     color: #fff;
 }
 
@@ -1251,6 +1251,10 @@ form label.error {
     }
 header.sticky .navigation a.current-ele {
     color:#FFE66D !important;
+}
+
+header.sticky .singlepage-nav a.current-ele {
+    color:#4C6085 !important;
 }
 
 /* Right Side Menu Button Style*/
