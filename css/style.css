@@ -43,6 +43,7 @@
   - Additional
 */
 
+
 .hero-bg {
   background: #48BFB7;
 }
@@ -1466,6 +1467,9 @@ header.sticky .singlepage-nav a.current-ele {
 
 
 @media (min-width: 768px) {
+    .youtube-video {
+        height: 315px;
+    }
 }
 
 
@@ -3480,6 +3484,20 @@ ul.project-detail-block, .project-detail-block ul {
         display: inline-block;
     }
 
+
+.youtube-video {
+    width: 100%;
+    max-width: 560px; 
+}
+
+.row { 
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
 @media (max-width: 991px) {
 
     /* Fullscreen Slider */
@@ -3531,6 +3549,8 @@ ul.project-detail-block, .project-detail-block ul {
     .hero {
         padding: 0px;
     }
+
+
 }
 
 @media (max-width: 480px) {
