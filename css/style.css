@@ -3558,6 +3558,20 @@ ul.project-detail-block, .project-detail-block ul {
         padding-left: 15px;
         padding-right: 15px;
     }
+
+    #action-box div {
+        text-align: center;
+    }
+
+    .header .logo a, .header.sticky .logo a {
+        padding-top: 0 !important;
+        margin-top: 0;
+    }
+
+    .logo a img {
+        height: 50px;
+        padding-top: 10px
+    }
 }
 
 /* -------------------------------------*/
